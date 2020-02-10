@@ -1,6 +1,6 @@
-# Eigene Notizen
+# Aufträge
 
-Wir werden in diesem Modul ohne Script arbeiten. Damit Sie sich die Inhalte trotzdem erarbeiten und verarbeiten können, erfassen Sie hier bitte Ihre Notizen und gelernten Elemente.
+Hier werde ich jede Woche im Sinne eines "Auftrages" dokumentieren. Zu jedem Auftrag gibt es zuoberst einen kleinen Index.
 
 >[!TIP]
-> In diesem Bereich würde es sich allenfalls anbieten, noch mit einer eigenen Nav-Bar (und weiteren Subordnern) zu arbeiten. So können Sie die Notizen besser gruppieren.
+> Zu Ihrer Linken können sie zwischen den verschiedenen Aufträgen hin und her wechseln.
